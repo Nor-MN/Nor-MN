@@ -56,6 +56,5 @@
 ---
 
 <a href="https://gitlab.com/nor-mn" target="_blank">
-  
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 </a>
